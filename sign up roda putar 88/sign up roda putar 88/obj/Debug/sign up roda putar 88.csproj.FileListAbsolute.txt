@@ -1,0 +1,13 @@
+C:\Users\ROG\source\repos\sign up roda putar 88\sign up roda putar 88\bin\Debug\sign up roda putar 88.exe.config
+C:\Users\ROG\source\repos\sign up roda putar 88\sign up roda putar 88\bin\Debug\sign up roda putar 88.exe
+C:\Users\ROG\source\repos\sign up roda putar 88\sign up roda putar 88\bin\Debug\sign up roda putar 88.pdb
+C:\Users\ROG\source\repos\sign up roda putar 88\sign up roda putar 88\obj\Debug\sign up roda putar 88.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\sign up roda putar 88\sign up roda putar 88\obj\Debug\sign up roda putar 88.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG\source\repos\sign up roda putar 88\sign up roda putar 88\obj\Debug\sign_up_roda_putar_88.Form1.resources
+C:\Users\ROG\source\repos\sign up roda putar 88\sign up roda putar 88\obj\Debug\sign_up_roda_putar_88.Properties.Resources.resources
+C:\Users\ROG\source\repos\sign up roda putar 88\sign up roda putar 88\obj\Debug\sign up roda putar 88.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\sign up roda putar 88\sign up roda putar 88\obj\Debug\sign up roda putar 88.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\sign up roda putar 88\sign up roda putar 88\obj\Debug\sign up roda putar 88.exe
+C:\Users\ROG\source\repos\sign up roda putar 88\sign up roda putar 88\obj\Debug\sign up roda putar 88.pdb
+C:\Users\ROG\source\repos\sign up roda putar 88\sign up roda putar 88\bin\Debug\Guna.UI2.dll
+C:\Users\ROG\source\repos\sign up roda putar 88\sign up roda putar 88\obj\Debug\sign up roda putar 88.csproj.CopyComplete

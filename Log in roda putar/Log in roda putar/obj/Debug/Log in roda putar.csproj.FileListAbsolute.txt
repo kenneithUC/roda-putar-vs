@@ -1,0 +1,13 @@
+C:\Users\ROG\source\repos\Log in roda putar\Log in roda putar\bin\Debug\Log in roda putar.exe.config
+C:\Users\ROG\source\repos\Log in roda putar\Log in roda putar\bin\Debug\Log in roda putar.exe
+C:\Users\ROG\source\repos\Log in roda putar\Log in roda putar\bin\Debug\Log in roda putar.pdb
+C:\Users\ROG\source\repos\Log in roda putar\Log in roda putar\obj\Debug\Log in roda putar.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\Log in roda putar\Log in roda putar\obj\Debug\Log in roda putar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG\source\repos\Log in roda putar\Log in roda putar\obj\Debug\Log_in_roda_putar.Form1.resources
+C:\Users\ROG\source\repos\Log in roda putar\Log in roda putar\obj\Debug\Log_in_roda_putar.Properties.Resources.resources
+C:\Users\ROG\source\repos\Log in roda putar\Log in roda putar\obj\Debug\Log in roda putar.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\Log in roda putar\Log in roda putar\obj\Debug\Log in roda putar.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\Log in roda putar\Log in roda putar\obj\Debug\Log in roda putar.exe
+C:\Users\ROG\source\repos\Log in roda putar\Log in roda putar\obj\Debug\Log in roda putar.pdb
+C:\Users\ROG\source\repos\Log in roda putar\Log in roda putar\bin\Debug\Guna.UI2.dll
+C:\Users\ROG\source\repos\Log in roda putar\Log in roda putar\obj\Debug\Log in roda putar.csproj.CopyComplete
