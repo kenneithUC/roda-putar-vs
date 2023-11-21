@@ -1,0 +1,15 @@
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\bin\Debug\MainMenu Roda putar 88.exe.config
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\bin\Debug\MainMenu Roda putar 88.exe
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\bin\Debug\MainMenu Roda putar 88.pdb
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\obj\Debug\MainMenu Roda putar 88.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\obj\Debug\MainMenu Roda putar 88.csproj.SuggestedBindingRedirects.cache
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\obj\Debug\MainMenu_Roda_putar_88.Form1.resources
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\obj\Debug\MainMenu_Roda_putar_88.Properties.Resources.resources
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\obj\Debug\MainMenu Roda putar 88.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\obj\Debug\MainMenu Roda putar 88.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\obj\Debug\MainMenu Roda putar 88.exe
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\obj\Debug\MainMenu Roda putar 88.pdb
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\bin\Debug\Guna.UI2.dll
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\obj\Debug\MainMenu Roda putar 88.csproj.CopyComplete
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\obj\Debug\MainMenu_Roda_putar_88.Order_Main_Menu.resources
+C:\Users\ROG\source\repos\MainMenu Roda putar 88\MainMenu Roda putar 88\obj\Debug\MainMenu_Roda_putar_88.Products_Main_Menu.resources
